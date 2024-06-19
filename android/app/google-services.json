@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "478267769285",
+    "firebase_url": "https://iotecg-default-rtdb.firebaseio.com",
+    "project_id": "iotecg",
+    "storage_bucket": "iotecg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478267769285:android:eafe5a380d4372fe900bac",
+        "android_client_info": {
+          "package_name": "com.example.bfcai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478267769285-pk2kf9v5gf223k3ob2ccm6o1brn4qe6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4RK1jGqXtyTdl1RU7lqZ_zWU-pIUhJjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478267769285-pk2kf9v5gf223k3ob2ccm6o1brn4qe6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
